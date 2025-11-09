@@ -54,16 +54,6 @@ This initiative aims to apply *proactive and data-driven solutions* to minimize 
 
 ---
 
-## 💡 Recommendations
-
-1. **Investigate “No handling” and “Safety Issue” categories**  
-   → Conduct detailed RCA (Root Cause Analysis) to identify bottlenecks.
-2. **Implement alert or monitoring systems** for *Freight Reject* cases.  
-3. **Benchmark high-performing warehouses** like *A1FF* and *P3MF* for best practices.  
-4. **Track trends over time** (monthly/quarterly) to detect recurring issues.  
-5. **Set auto-escalation rules** for cases older than 7 days.
-
----
 
 _Analysis based on “Average of Resolution Time (days)” KPI chart across multiple warehouses._
 

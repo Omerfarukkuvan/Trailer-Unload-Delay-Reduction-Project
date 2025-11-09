@@ -78,3 +78,16 @@ For this warehouse, products that cannot be handled should no longer be directed
 - Reduce yard congestion at the warehouse.  
 
 In this way, root causes are analyzed for each warehouse individually, with the objective of minimizing unload times and optimizing overall operational efficiency.
+
+---
+
+## 💡 Recommendations
+
+1. **Investigate “No handling” and “Safety Issue” categories**  
+   → Conduct detailed RCA (Root Cause Analysis) to identify bottlenecks.
+2. **Implement alert or monitoring systems** for *Freight Reject* cases.  
+3. **Benchmark high-performing warehouses** like *A1FF* and *P3MF* for best practices.  
+4. **Track trends over time** (monthly/quarterly) to detect recurring issues.  
+5. **Set auto-escalation rules** for cases older than 7 days.
+
+---

@@ -1,6 +1,9 @@
 # Trailer-Unload-Delay-Reduction-Project
 Analysis and optimization of trailer unloading delays to improve warehouse efficiency and reduce dwell times.
 
+Note: Additionally, for a better understanding of the topic, it is recommended to examine ![Workflow Diagram](https://github.com/Omerfarukkuvan/Trailer-Unload-Delay-Reduction-Project/blob/main/Data/Trailer%20Unload%20Delay%20Reduction%20Project.xlsx)
+
+
 ## 📦 Project Purpose
 The main objective of this project was to investigate and minimize trailer unloading delays at warehouses. These delays caused operational challenges, including decreased customer satisfaction, inventory discrepancies, financial losses, and increased yard congestion.
 

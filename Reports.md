@@ -12,3 +12,6 @@ To address these inefficiencies:
 - For warehouses with *consistently long unloading and resolution durations*, root causes were analyzed in detail, and corrective actions were implemented to eliminate repetitive issues.
 
 This initiative aims to apply *proactive and data-driven solutions* to minimize trailer unload times, enhance warehouse efficiency, and strengthen overall operational performance across the network.
+
+![Workflow Diagram]([https://github.com/Omerfarukkuvan/Inbound-Trailer-Unload-Optimization-Project/blob/main/Graphics/Weekly%20Operational%20and%20Financial%20Performance.png](https://github.com/Omerfarukkuvan/Trailer-Unload-Delay-Reduction-Project/blob/main/Data/Warehouse%20Resolution%20by%20Cause.png))
+
